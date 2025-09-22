@@ -60,4 +60,4 @@ Employee-Management-System/
 
 ## Author
 
-Developed by [Rahmat Khan]
+Developed by **[Rahmat Khan]**
