@@ -39,3 +39,10 @@ This project follows standard coding practices with a modular structure to keep 
 1. Clone the repository:
    ```bash
    git clone https://github.com/rahmatkhan26/EmployeeManagementSystem.git
+2. Open the project in any Java IDE (Eclipse/IntelliJ/NetBeans).
+3. Set up the database:
+-Create a database in MySQL (or preferred SQL DB).
+-Update your DB credentials in the DBConnection file.
+4. Compile and run:
+javac EmpManagementApp.java
+java EmpManagementApp
