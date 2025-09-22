@@ -4,7 +4,7 @@ This project follows standard coding practices with a modular structure to keep 
 
 ---
 
-## 📌 Features
+##  Features
 - Add new employees  
 - View employee details  
 - Update existing records  
@@ -13,7 +13,7 @@ This project follows standard coding practices with a modular structure to keep 
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 - **EmpManagementApp**  
   Main entry point of the project where all activities (CRUD operations) are called.
 
@@ -25,3 +25,17 @@ This project follows standard coding practices with a modular structure to keep 
 
 - **EmployeesPOJO**  
   Defines the Employee model class with fields and getter/setter methods.
+
+---
+
+##  Tech Stack
+- **Language:** Core Java  
+- **Database:** SQL (MySQL/any RDBMS)  
+- **Connectivity:** JDBC
+
+---
+
+##  How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rahmatkhan26/EmployeeManagementSystem.git
