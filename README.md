@@ -46,3 +46,18 @@ This project follows standard coding practices with a modular structure to keep 
 4. Compile and run:
 - javac EmpManagementApp.java
 - java EmpManagementApp
+
+---
+
+## Folder Layout
+Employee-Management-System/
+│── EmpManagementApp/      **Main application**
+│── EmployeeDAO/           **Data Access Object for database operations**
+│── DBConnection/          **Database connection utility**
+│── EmployeesPOJO/         **Employee model class**
+
+---
+
+## Author
+
+Developed by [Rahmat Khan]
