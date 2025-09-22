@@ -2,6 +2,8 @@
 A simple **Core Java + JDBC** based application that manages employee records using CRUD operations.  
 This project follows standard coding practices with a modular structure to keep code clean and maintainable.
 
+---
+
 ## 📌 Features
 - Add new employees  
 - View employee details  
